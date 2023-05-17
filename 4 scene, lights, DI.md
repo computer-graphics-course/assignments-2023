@@ -1,4 +1,4 @@
-## Lab 3. Harder, better, faster renderer
+## Lab 4. Scene, Lights, DI
 
 1. Прискорюючі структури даних
 
